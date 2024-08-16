@@ -1,0 +1,49 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile N:/VLSI/Maven/ROUTER/Synchronizer/RTL/router_sync.v
+# Loading project router_sync
+# Compile of router_sync.v was successful.
+# Compile of sync_tb.v failed with 1 errors.
+# Compile of sync_tb.v failed with 1 errors.
+# Compile of sync_tb.v failed with 1 errors.
+# Compile of router_sync_tb.v failed with 4 errors.
+# Error opening N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v
+# Path name 'N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v' doesn't exist.
+# Error opening N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v
+# Path name 'N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v' doesn't exist.
+# Error opening N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v
+# Path name 'N:/VLSI/Maven/ROUTER/Synchronizer/(vlog-13069) N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v' doesn't exist.
+# Compile of router_sync_tb.v failed with 3 errors.
+# Compile of router_sync_tb.v failed with 2 errors.
+# Compile of router_sync_tb.v failed with 1 errors.
+# Compile of router_sync_tb.v failed with 1 errors.
+# Compile of router_sync_tb.v was successful.
+vsim work.router_sync_tb
+# vsim work.router_sync_tb 
+# Start time: 19:53:40 on Apr 24,2022
+# Loading work.router_sync_tb
+# Loading work.router_sync
+add wave -position insertpoint sim:/router_sync_tb/*
+add wave -position insertpoint sim:/router_sync_tb/DUT/*
+run -all
+# 
+# ** Note: $finish    : N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v(37)
+#    Time: 500 ps  Iteration: 0  Instance: /router_sync_tb
+# 1
+# Break in Module router_sync_tb at N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v line 37
+vsim work.router_sync_tb
+# End time: 19:54:51 on Apr 24,2022, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 0
+# vsim work.router_sync_tb 
+# Start time: 19:54:51 on Apr 24,2022
+# Loading work.router_sync_tb
+# Loading work.router_sync
+add wave -position insertpoint sim:/router_sync_tb/*
+add wave -position insertpoint sim:/router_sync_tb/DUT/*
+run -all
+# 
+# ** Note: $finish    : N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v(37)
+#    Time: 500 ps  Iteration: 0  Instance: /router_sync_tb
+# 1
+# Break in Module router_sync_tb at N:/VLSI/Maven/ROUTER/Synchronizer/testbench/router_sync_tb.v line 37
+# End time: 20:01:21 on Apr 24,2022, Elapsed time: 0:06:30
+# Errors: 0, Warnings: 0
